@@ -1,8 +1,8 @@
-.font{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+html body {
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
-#body{
-    font-size: 2em;
+body {
+  font-size: 2em;
 }
 #logo {
   width: 8vw;
@@ -20,8 +20,8 @@
   background-color: #fdfbf1;
   border-top: 2px solid #ffd877;
 }
-#videoholder{
-    width: 100%;
+#videoholder {
+  width: 100%;
 }
 .container {
   /*border: 2px solid black;         per vedere i margini della pagina*/
@@ -43,14 +43,13 @@
 }
 
 .featured {
- color: red;
+  color: red;
 }
-#featuredlink{
-    color:#107777;
+.link {
+  color: #107777;
 }
-.section-title{
-    margin: 0px;
-    padding: 18px;
-    border-bottom: 2px solid #C4F3F2;
-
+.section-title {
+  margin: 0px;
+  padding: 18px;
+  border-bottom: 4px solid #c4f3f2;
 }
