@@ -1,11 +1,12 @@
-html body {
+html, body {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 body {
-  font-size: 2em;
+  font-size: 2em; /* AGIGUNTO post esercizio*/
 }
 #logo {
-  width: 8vw;
+  width: 8%;
+  padding: 1rem 0;   /* AGIGUNTO post esercizio*/
 }
 #header {
   text-align: center;
@@ -16,7 +17,7 @@ body {
 }
 #thanksgiving {
   margin: 0px;
-  padding: 16px;
+  padding: 2rem;
   background-color: #fdfbf1;
   border-top: 2px solid #ffd877;
 }
@@ -44,12 +45,20 @@ body {
 
 .featured {
   color: red;
+  padding: 0 2rem;
+  border-left: 4px solid #ffd877;
 }
-.link {
+.link , #thanksgiving {
   color: #107777;
 }
 .section-title {
   margin: 0px;
-  padding: 18px;
+  padding: 2rem 0;
   border-bottom: 4px solid #c4f3f2;
+}
+li{                     /* AGIGUNTO post esercizio*/
+    margin-bottom: 2%;
+}
+ul{
+    padding-left: 5rem;
 }
