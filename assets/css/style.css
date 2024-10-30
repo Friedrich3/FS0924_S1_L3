@@ -1,3 +1,6 @@
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 #logo {
   width: 8vw;
 }
@@ -13,6 +16,9 @@
   padding: 16px;
   background-color: #fdfbf1;
   border-top: 2px solid #ffd877;
+}
+#videoholder{
+    width: 100%;
 }
 .container {
   /*border: 2px solid black;         per vedere i margini della pagina*/
