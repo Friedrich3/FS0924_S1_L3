@@ -1,6 +1,9 @@
 .font{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+#body{
+    font-size: 2em;
+}
 #logo {
   width: 8vw;
 }
