@@ -1,0 +1,42 @@
+#logo{
+    width: 8vw;
+
+}
+#header{
+    text-align: center;
+    
+}
+#headersplitter{
+    border:1px solid ;
+    color: #FFD877;
+}
+#thanksgiving{
+    margin-top: 1px solid #FFD877;
+    
+
+
+}
+
+.container h1{
+    text-align: center;
+}
+#video{
+    width: 100%;
+    
+}
+#videoholder div{
+    text-align: center;
+}
+    
+
+
+
+
+
+
+
+.container {
+   /*border: 2px solid black;*/
+   width: 50vw; 
+   margin: 0 auto;
+}
