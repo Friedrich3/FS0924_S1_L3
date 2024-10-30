@@ -11,7 +11,11 @@
     color: #FFD877;
 }
 #thanksgiving{
-    margin-top: 1px solid #FFD877;
+    margin: 0px;
+    padding: 16px;
+    background-color: #FDFBF1;
+    border-top: 2px solid #FFD877;
+    
     
 
 
